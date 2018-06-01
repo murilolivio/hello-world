@@ -1,2 +1,4 @@
 # hello-world
-It is my first code at GitHub.
+
+Hello! My name is Murilo and I'm a beginner developer.
+My preferences 
